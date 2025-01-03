@@ -1,6 +1,6 @@
 <h1>Miguel Rafael</h1>  
 <p>Desenvolvedor FullStack | React | Nextjs | TypeScript | JavaScript</p>
-<p>Desenvolvo aplicações web integradas, garantindo eficiência e uma excelente experiência do usuário. Comprometido com o aprendizado contínuo, busco constantemente novas técnicas e tecnologias para aprimorar minhas habilidades e entregar soluções inovadoras. Atualmente, estou em busca de novas oportunidades.</p> 
+<p>Desenvolvo aplicações web integradas, focando na eficiência e na criação de uma experiência do usuário excepcional. Com um forte compromisso com o aprendizado contínuo, estou sempre em busca de novas técnicas e tecnologias que me permitam aprimorar minhas habilidades e oferecer soluções inovadoras. Neste momento, estou aberto a novas oportunidades que me desafiem e me permitam crescer ainda mais na minha carreira.</p> 
 
 <h3 align="left">Contato:</h3>
 <div align="left">
